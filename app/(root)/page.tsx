@@ -2,7 +2,13 @@ import React from 'react'
 
 function Page() {
   return (
-    <div>Page</div>
+    <html>
+    
+    <body>
+      <div>Home Page</div>
+    </body>
+
+    </html>
   )
 }
 
